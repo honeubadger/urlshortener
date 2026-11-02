@@ -3,6 +3,7 @@ This is a very simple URL shortener project designed to help me deepen my flask 
 
 # Install and run
 Add main.py in FLASK_APP environment variable
+
 Run 'flask run'
 
 The web server will launch on localhost:5000 by default for now
