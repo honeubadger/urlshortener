@@ -3,6 +3,7 @@ This is a very simple URL shortener project designed to help me deepen my flask 
 
 # Install and run
 Download, install and configure a MySQL database. I used https://www.oracle.com/mysql/technologies/mysql-enterprise-edition-downloads.html
+
 Create a .env with your database link, user and password, and optionally a port number
 Run the app using "flask --app main.py run"
 
